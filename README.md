@@ -65,4 +65,4 @@ A fully functional recreation of the classic arcade game built in C# using .NET.
 
 ## Contact
 
-Reach me at misheelazj@gmail.com or connect on [LinkedIn]().
+Reach me at misheelazj@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/misheel-azjargalbayar-762165197).
