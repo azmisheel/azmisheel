@@ -6,7 +6,7 @@
 
 ## About
 
-Recent Computer Programming and Analysis graduate from Niagara College with hands-on experience across the full development lifecycle — from requirements gathering and database design to deployment and post-launch maintenance. I have built production software for real clients, contributed to commercial product development in an Agile environment, and continue building projects that solve practical problems.
+Software Developer with hands-on experience across the full development lifecycle — from requirements gathering and database design to deployment and post-launch maintenance. I have built production software for real clients, contributed to commercial product development in an Agile environment, and continue building projects that solve practical problems.
 
 My work spans full stack web development, system design, and backend engineering. I care about writing clean, maintainable code, documenting what I build, and delivering work that holds up under real conditions.
 
